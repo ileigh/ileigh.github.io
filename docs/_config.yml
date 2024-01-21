@@ -23,7 +23,7 @@ email: isabel.leigh@bos.frb.org
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my page. Here you can find my recent research projects, submissions, and publications. 
 baseurl: "/ileigh.github.io/" # the subpath of your site, e.g. /blog
-url: "https://ileigh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ileigh.github.io." # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: isabel_leigh_
 github_username:  ileigh
 
